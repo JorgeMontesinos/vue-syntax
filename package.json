@@ -2,7 +2,7 @@
   "name": "vue-syntax",
   "theme": "syntax",
   "version": "0.2.0",
-  "description": "A short description of your syntax theme",
+  "description": "Syntax theme for vue projects",
   "keywords": [
     "syntax",
     "theme"
